@@ -53,7 +53,7 @@ Follow these steps to set up the project on your local machine:
    python -c "import nltk; nltk.download('punkt'); nltk.download('stopwords')"
    ```
 
-7. Prepare the custom medical dataset:
+7. Load the custom medical dataset:
    * Ensure you have a `dev.json` file in the project root directory containing your medical QA data
    * The file should have the following structure:
      ```json
