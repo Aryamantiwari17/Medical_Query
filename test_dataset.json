@@ -1,0 +1,139 @@
+[
+    {
+        "id": 1,
+        "question": "What should I do if I have severe chest pain?",
+        "symptoms": [
+            "severe chest pain",
+            "shortness of breath",
+            "sweating"
+        ],
+        "possible_diagnoses": [
+            {
+                "diagnosis": "Acute Coronary Syndrome",
+                "description": "A range of conditions including unstable angina and myocardial infarction.",
+                "risk_factors": [
+                    "Age over 50",
+                    "Smoking",
+                    "High cholesterol"
+                ],
+                "diagnostic_tests": [
+                    "Electrocardiogram (ECG)",
+                    "Troponin tests"
+                ]
+            },
+            {
+                "diagnosis": "Aortic Dissection",
+                "description": "A tear in the aorta which may cause severe pain.",
+                "risk_factors": [
+                    "Hypertension",
+                    "Trauma"
+                ],
+                "diagnostic_tests": [
+                    "CT scan",
+                    "Echocardiogram"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "question": "What are the signs of a panic attack?",
+        "symptoms": [
+            "rapid heartbeat",
+            "dizziness",
+            "chest pain"
+        ],
+        "possible_diagnoses": [
+            {
+                "diagnosis": "Panic Attack",
+                "description": "A sudden episode of intense fear or discomfort.",
+                "risk_factors": [
+                    "Stress",
+                    "Anxiety disorders"
+                ],
+                "diagnostic_tests": [
+                    "Clinical evaluation"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "question": "What can cause severe abdominal pain?",
+        "symptoms": [
+            "severe abdominal pain",
+            "nausea",
+            "vomiting"
+        ],
+        "possible_diagnoses": [
+            {
+                "diagnosis": "Appendicitis",
+                "description": "Inflammation of the appendix.",
+                "risk_factors": [],
+                "diagnostic_tests": [
+                    "Ultrasound",
+                    "CT scan"
+                ]
+            },
+            {
+                "diagnosis": "Pancreatitis",
+                "description": "Inflammation of the pancreas.",
+                "risk_factors": [
+                    "Alcohol use",
+                    "Gallstones"
+                ],
+                "diagnostic_tests": [
+                    "Blood tests",
+                    "CT scan"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "question": "What are the symptoms of diabetes?",
+        "symptoms": [
+            "increased thirst",
+            "frequent urination",
+            "extreme fatigue"
+        ],
+        "possible_diagnoses": [
+            {
+                "diagnosis": "Type 2 Diabetes",
+                "description": "A chronic condition that affects the way the body processes blood sugar.",
+                "risk_factors": [
+                    "Obesity",
+                    "Sedentary lifestyle",
+                    "Family history"
+                ],
+                "diagnostic_tests": [
+                    "Blood glucose test",
+                    "A1C test"
+                ]
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "question": "What should I do for a migraine?",
+        "symptoms": [
+            "throbbing headache",
+            "nausea",
+            "sensitivity to light"
+        ],
+        "possible_diagnoses": [
+            {
+                "diagnosis": "Migraine",
+                "description": "A type of headache characterized by recurrent moderate to severe headaches.",
+                "risk_factors": [
+                    "Hormonal changes",
+                    "Stress",
+                    "Certain foods"
+                ],
+                "diagnostic_tests": [
+                    "Clinical evaluation"
+                ]
+            }
+        ]
+    }
+]
