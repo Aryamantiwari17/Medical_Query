@@ -1,4 +1,4 @@
-# Medical Clinical Query System
+# Medical Diagnostic Query System
 
 This project is a Flask-based web application that uses AI to provide medical assessments based on user queries and lab reports. It integrates various AI models and tools, including Wikipedia search, a custom medical database, and PMC Open Access articles.
 
